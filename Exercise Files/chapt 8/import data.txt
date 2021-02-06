@@ -1,0 +1,36 @@
+Last Name,First Name,Department,State,Hours,Rate,Location,Trained?,Seat Pref.
+Cohen,Brian,Executive,NJ, 40.00 , 17.88 ,Office,Yes,Aisle
+Colvin,Laura,Executive,CA, 29.30 , 13.09 ,Mobile,No,Window
+Jorgensen,Rebecca,Executive,VT, 15.10 , 45.09 ,Mobile,No,Window
+Zarish,Carol,Executive,PA, 26.60 , 15.99 ,Office,Yes,Window
+Abrams,Brooke,Finance,NJ, 59.60 , 39.97 ,Mobile,Yes,Aisle
+Birman,James,Finance,NY, 26.42 , 83.65 ,Mobile,Yes,Window
+Deshpande,Carl,Finance,NY, 33.20 , 24.05 ,Mobile,No,Aisle
+Dugan,Meg,Finance,PA, 96.30 , 35.92 ,Office,No,Aisle
+Fitts,Leanne,Finance,CA, 85.30 , 24.14 ,Mobile,Yes,Aisle
+Lowenfeld,Daniel,Graphics,CT, 80.40 , 16.53 ,Office,No,Aisle
+McGowan,Chan,Graphics,NJ, 84.60 , 29.76 ,Mobile,Yes,Window
+Petsch,Kim,Graphics,NJ, 13.20 , 12.06 ,Mobile,Yes,Window
+Rampulla,Rosanne,Graphics,NJ, 78.50 , 28.73 ,Mobile,Yes,Aisle
+DeTorres,Andrea,Human Resources,NJ, 87.30 , 19.68 ,Office,No,Window
+Fitzpatrick,Wendy,Human Resources,IL, 52.36 , 64.37 ,Mobile,Yes,Aisle
+Liebowitz,Kenneth,Human Resources,PA, 16.20 , 33.04 ,Mobile,No,Window
+Picker,Louan,Human Resources,CA, 11.90 , 32.14 ,Mobile,Yes,Window
+Boyle,Marianne,IT,VT, 87.60 , 23.00 ,Office,No,Aisle
+Marciano,Christine,IT,NY, 70.60 , 20.84 ,Mobile,Yes,Aisle
+Rehal,Joseph,IT,PA, 82.40 , 24.54 ,Mobile,No,Aisle
+Sipes,James,IT,CA, 46.40 , 38.80 ,Office,Yes,Window
+Marone,Lois,Marketing,CT, 22.50 , 11.51 ,Mobile,Yes,Window
+More,Jeremy,Marketing,NY, 80.10 , 44.62 ,Mobile,No,Aisle
+Novick,Paul,Marketing,CA, 59.10 , 34.83 ,Office,No,Window
+Stryker,Susan,Marketing,VT, 97.20 , 30.30 ,Mobile,No,Window
+Wilson,Aparna,Marketing,NY, 13.60 , 20.14 ,Mobile,Yes,Window
+Buckleitner,Kerry,Sales,CT, 68.60 , 23.74 ,Office,No,Aisle
+Coules,Duke,Sales,CA, 62.90 , 47.90 ,Mobile,Yes,Window
+Kreanow,Shelli,Sales,VT, 32.40 , 14.37 ,Mobile,Yes,Window
+Leung,Marc,Sales,CA, 78.40 , 44.98 ,Office,No,Window
+McIntyre,Ruth,Sales,IL, 64.29 , 75.12 ,Mobile,No,Aisle
+Meacham,Warren,Sales,CT, 10.20 , 23.74 ,Mobile,Yes,Aisle
+Minzner,Paul,Sales,NY, 39.90 , 41.66 ,Office,Yes,Aisle
+Philips,Judith,Sales,NJ, 95.00 , 48.63 ,Mobile,No,Window
+Richardson,Clarence,Sales,NJ,23.2,45.11,Office,Yes,Aisle
